@@ -12,8 +12,8 @@
                 {
                     "atomType": "Constant",
                     "name": "Constant",
-                    "x": 184,
-                    "y": 22,
+                    "x": 180,
+                    "y": 14,
                     "uniqueID": 982084,
                     "ioValues": [
                         {
@@ -25,8 +25,8 @@
                 {
                     "atomType": "Constant",
                     "name": "Constant",
-                    "x": 175,
-                    "y": 74,
+                    "x": 173,
+                    "y": 85,
                     "uniqueID": 230361,
                     "ioValues": [
                         {
