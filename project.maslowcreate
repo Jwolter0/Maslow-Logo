@@ -74,9 +74,17 @@
                     "ioValues": [
                         {
                             "name": "multiple",
-                            "ioValue": 10
+                            "ioValue": 0.85
                         }
                     ]
+                },
+                {
+                    "atomType": "Difference",
+                    "name": "Difference",
+                    "x": 395,
+                    "y": 177,
+                    "uniqueID": 926438,
+                    "ioValues": []
                 },
                 {
                     "atomType": "Extrude",
@@ -124,16 +132,18 @@
                     "ap1ID": 925701,
                     "ap2ID": 693650
                 },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 693650
-                },
+                null,
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 693650,
                     "ap2ID": 618465
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry2",
+                    "ap1ID": 693650,
+                    "ap2ID": 926438
                 }
             ],
             "fileTypeVersion": 1
