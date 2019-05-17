@@ -55,8 +55,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1351,
-                    "y": 207,
+                    "x": 510,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
