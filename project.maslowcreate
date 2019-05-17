@@ -31,20 +31,20 @@
                     "ioValues": [
                         {
                             "name": "number",
-                            "ioValue": 10
+                            "ioValue": 60
                         }
                     ]
                 },
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 369,
-                    "y": 148,
+                    "x": 345,
+                    "y": 145,
                     "uniqueID": 925701,
                     "ioValues": [
                         {
                             "name": "radius",
-                            "ioValue": 10
+                            "ioValue": 60
                         },
                         {
                             "name": "max segment size",
