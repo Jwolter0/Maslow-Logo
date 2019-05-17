@@ -66,6 +66,19 @@
                     ]
                 },
                 {
+                    "atomType": "Scale",
+                    "name": "Scale",
+                    "x": 250,
+                    "y": 168,
+                    "uniqueID": 618465,
+                    "ioValues": [
+                        {
+                            "name": "multiple",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Extrude",
                     "name": "Extrude",
                     "x": 484,
@@ -115,6 +128,12 @@
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap1ID": 693650
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 693650,
+                    "ap2ID": 618465
                 }
             ],
             "fileTypeVersion": 1
