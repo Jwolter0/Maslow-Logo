@@ -53,6 +53,32 @@
                     ]
                 },
                 {
+                    "atomType": "Constant",
+                    "name": "Constant",
+                    "x": 371,
+                    "y": 54,
+                    "uniqueID": 422128,
+                    "ioValues": [
+                        {
+                            "name": "number",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 507,
+                    "y": 135,
+                    "uniqueID": 581591,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1351,
@@ -72,6 +98,23 @@
                     "ap2Name": "radius",
                     "ap1ID": 230361,
                     "ap2ID": 925701
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 925701,
+                    "ap2ID": 581591
+                },
+                {
+                    "ap1Name": "number",
+                    "ap2Name": "height",
+                    "ap1ID": 422128,
+                    "ap2ID": 581591
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 581591
                 }
             ],
             "fileTypeVersion": 1
