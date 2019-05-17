@@ -36,23 +36,6 @@
                     ]
                 },
                 {
-                    "atomType": "Circle",
-                    "name": "Circle",
-                    "x": 345,
-                    "y": 145,
-                    "uniqueID": 925701,
-                    "ioValues": [
-                        {
-                            "name": "radius",
-                            "ioValue": 60
-                        },
-                        {
-                            "name": "max segment size",
-                            "ioValue": 10
-                        }
-                    ]
-                },
-                {
                     "atomType": "Constant",
                     "name": "Constant",
                     "x": 371,
@@ -61,6 +44,23 @@
                     "ioValues": [
                         {
                             "name": "number",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 350,
+                    "y": 139,
+                    "uniqueID": 925701,
+                    "ioValues": [
+                        {
+                            "name": "radius",
+                            "ioValue": 60
+                        },
+                        {
+                            "name": "max segment size",
                             "ioValue": 10
                         }
                     ]
