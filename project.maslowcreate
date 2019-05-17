@@ -123,8 +123,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 543,
-                    "y": 218,
+                    "x": 544,
+                    "y": 226,
                     "uniqueID": 883847,
                     "ioValues": [
                         {
@@ -165,6 +165,12 @@
                     "ap2Name": "height",
                     "ap1ID": 130755,
                     "ap2ID": 590652
+                },
+                {
+                    "ap1Name": "number",
+                    "ap2Name": "height",
+                    "ap1ID": 130755,
+                    "ap2ID": 883847
                 },
                 {
                     "ap1Name": "geometry",
@@ -217,7 +223,7 @@
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
-                    "ap1ID": 926438
+                    "ap1ID": 883847
                 }
             ],
             "fileTypeVersion": 1
