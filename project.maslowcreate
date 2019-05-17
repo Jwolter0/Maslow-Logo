@@ -10,6 +10,36 @@
             "topLevel": true,
             "allAtoms": [
                 {
+                    "atomType": "Constant",
+                    "name": "Constant",
+                    "x": 201,
+                    "y": 188,
+                    "uniqueID": 230361,
+                    "ioValues": [
+                        {
+                            "name": "number",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 351,
+                    "y": 191,
+                    "uniqueID": 925701,
+                    "ioValues": [
+                        {
+                            "name": "radius",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "max segment size",
+                            "ioValue": 1
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1351,
@@ -17,7 +47,19 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "number",
+                    "ap2Name": "radius",
+                    "ap1ID": 230361,
+                    "ap2ID": 925701
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 925701
+                }
+            ],
             "fileTypeVersion": 1
         }
     ]
