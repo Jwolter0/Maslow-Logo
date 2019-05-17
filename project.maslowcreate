@@ -12,6 +12,19 @@
                 {
                     "atomType": "Constant",
                     "name": "Constant",
+                    "x": 183,
+                    "y": 97,
+                    "uniqueID": 982084,
+                    "ioValues": [
+                        {
+                            "name": "number",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Constant",
+                    "name": "Constant",
                     "x": 201,
                     "y": 188,
                     "uniqueID": 230361,
@@ -25,8 +38,8 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 351,
-                    "y": 191,
+                    "x": 369,
+                    "y": 148,
                     "uniqueID": 925701,
                     "ioValues": [
                         {
@@ -35,7 +48,7 @@
                         },
                         {
                             "name": "max segment size",
-                            "ioValue": 1
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -50,14 +63,15 @@
             "allConnectors": [
                 {
                     "ap1Name": "number",
-                    "ap2Name": "radius",
-                    "ap1ID": 230361,
+                    "ap2Name": "max segment size",
+                    "ap1ID": 982084,
                     "ap2ID": 925701
                 },
                 {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 925701
+                    "ap1Name": "number",
+                    "ap2Name": "radius",
+                    "ap1ID": 230361,
+                    "ap2ID": 925701
                 }
             ],
             "fileTypeVersion": 1
