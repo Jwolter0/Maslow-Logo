@@ -36,19 +36,6 @@
                     ]
                 },
                 {
-                    "atomType": "Constant",
-                    "name": "Constant",
-                    "x": 371,
-                    "y": 54,
-                    "uniqueID": 422128,
-                    "ioValues": [
-                        {
-                            "name": "number",
-                            "ioValue": 10
-                        }
-                    ]
-                },
-                {
                     "atomType": "Circle",
                     "name": "Circle",
                     "x": 350,
@@ -68,8 +55,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1351,
-                    "y": 207,
+                    "x": 495,
+                    "y": 179,
                     "ioValues": []
                 }
             ],
