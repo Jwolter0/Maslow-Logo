@@ -113,7 +113,7 @@
                     "ioValues": [
                         {
                             "name": "number",
-                            "ioValue": 10
+                            "ioValue": -34
                         }
                     ]
                 },
@@ -138,7 +138,7 @@
                     "atomType": "Rotate",
                     "name": "Rotate",
                     "x": 419,
-                    "y": 233,
+                    "y": 243,
                     "uniqueID": 427423,
                     "ioValues": [
                         {
@@ -151,7 +151,7 @@
                         },
                         {
                             "name": "z-axis degrees",
-                            "ioValue": 10
+                            "ioValue": -34
                         }
                     ]
                 },
@@ -174,6 +174,19 @@
                     "x": 484,
                     "y": 67,
                     "uniqueID": 693650,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 529,
+                    "y": 237,
+                    "uniqueID": 568918,
                     "ioValues": [
                         {
                             "name": "height",
