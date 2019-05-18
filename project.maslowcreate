@@ -398,7 +398,12 @@
                     "ap1ID": 130755,
                     "ap2ID": 568918
                 },
-                null,
+                {
+                    "ap1Name": "number",
+                    "ap2Name": "height",
+                    "ap1ID": 130755,
+                    "ap2ID": 638542
+                },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
