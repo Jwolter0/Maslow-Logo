@@ -158,13 +158,13 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 381,
-                    "y": 294,
+                    "x": 399,
+                    "y": 243,
                     "uniqueID": 485820,
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": -10
                         },
                         {
                             "name": "yDist",
@@ -316,6 +316,12 @@
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 427423,
+                    "ap2ID": 485820
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 485820,
                     "ap2ID": 568918
                 },
                 {
