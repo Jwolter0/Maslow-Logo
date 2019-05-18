@@ -279,7 +279,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 0
+                            "ioValue": -15
                         },
                         {
                             "name": "zDist",
@@ -507,6 +507,11 @@
                     "ap2Name": "geometry2",
                     "ap1ID": 514262,
                     "ap2ID": 483694
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 483694
                 }
             ],
             "fileTypeVersion": 1
