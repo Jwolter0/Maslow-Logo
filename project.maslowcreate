@@ -75,6 +75,19 @@
                     ]
                 },
                 {
+                    "atomType": "Constant",
+                    "name": "Constant",
+                    "x": 51,
+                    "y": 282,
+                    "uniqueID": 962337,
+                    "ioValues": [
+                        {
+                            "name": "number",
+                            "ioValue": 55
+                        }
+                    ]
+                },
+                {
                     "atomType": "Rectangle",
                     "name": "Rectangle",
                     "x": 203,
@@ -118,19 +131,6 @@
                         {
                             "name": "max segment size",
                             "ioValue": 10
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Constant",
-                    "name": "Constant",
-                    "x": 81,
-                    "y": 294,
-                    "uniqueID": 962337,
-                    "ioValues": [
-                        {
-                            "name": "number",
-                            "ioValue": 55
                         }
                     ]
                 },
@@ -195,6 +195,19 @@
                         {
                             "name": "z-axis degrees",
                             "ioValue": -34
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Constant",
+                    "name": "Constant",
+                    "x": 59,
+                    "y": 373,
+                    "uniqueID": 153211,
+                    "ioValues": [
+                        {
+                            "name": "number",
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -383,6 +396,12 @@
                     "ap2ID": 427423
                 },
                 {
+                    "ap1Name": "number",
+                    "ap2Name": "y length",
+                    "ap1ID": 962337,
+                    "ap2ID": 220243
+                },
+                {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 168557,
@@ -423,12 +442,6 @@
                     "ap2Name": "geometry",
                     "ap1ID": 925701,
                     "ap2ID": 618465
-                },
-                {
-                    "ap1Name": "number",
-                    "ap2Name": "y length",
-                    "ap1ID": 962337,
-                    "ap2ID": 220243
                 },
                 {
                     "ap1Name": "geometry",
