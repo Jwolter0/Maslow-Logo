@@ -266,7 +266,7 @@
                         },
                         {
                             "name": "z-axis degrees",
-                            "ioValue": 0
+                            "ioValue": -34
                         }
                     ]
                 },
@@ -462,6 +462,12 @@
                 },
                 {
                     "ap1Name": "number",
+                    "ap2Name": "z-axis degrees",
+                    "ap1ID": 606628,
+                    "ap2ID": 111294
+                },
+                {
+                    "ap1Name": "number",
                     "ap2Name": "y length",
                     "ap1ID": 962337,
                     "ap2ID": 220243
@@ -541,9 +547,16 @@
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap1ID": 892496,
+                    "ap2ID": 111294
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
                     "ap1ID": 430188,
                     "ap2ID": 428745
                 },
+                null,
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
