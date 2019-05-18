@@ -38,6 +38,19 @@
                 {
                     "atomType": "Constant",
                     "name": "Constant",
+                    "x": 162,
+                    "y": 197,
+                    "uniqueID": 787645,
+                    "ioValues": [
+                        {
+                            "name": "number",
+                            "ioValue": 75
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Constant",
+                    "name": "Constant",
                     "x": 291,
                     "y": 31,
                     "uniqueID": 130755,
@@ -61,6 +74,19 @@
                         },
                         {
                             "name": "max segment size",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Constant",
+                    "name": "Constant",
+                    "x": 168,
+                    "y": 242,
+                    "uniqueID": 237906,
+                    "ioValues": [
+                        {
+                            "name": "number",
                             "ioValue": 10
                         }
                     ]
