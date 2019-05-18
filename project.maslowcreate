@@ -87,7 +87,7 @@
                     "ioValues": [
                         {
                             "name": "number",
-                            "ioValue": 10
+                            "ioValue": 7.5
                         }
                     ]
                 },
@@ -113,11 +113,11 @@
                     "ioValues": [
                         {
                             "name": "x length",
-                            "ioValue": 10
+                            "ioValue": 7.5
                         },
                         {
                             "name": "y length",
-                            "ioValue": 10
+                            "ioValue": 75
                         }
                     ]
                 },
@@ -178,6 +178,12 @@
                 },
                 {
                     "ap1Name": "number",
+                    "ap2Name": "y length",
+                    "ap1ID": 787645,
+                    "ap2ID": 168557
+                },
+                {
+                    "ap1Name": "number",
                     "ap2Name": "height",
                     "ap1ID": 130755,
                     "ap2ID": 693650
@@ -199,6 +205,12 @@
                     "ap2Name": "geometry",
                     "ap1ID": 925701,
                     "ap2ID": 618465
+                },
+                {
+                    "ap1Name": "number",
+                    "ap2Name": "x length",
+                    "ap1ID": 237906,
+                    "ap2ID": 168557
                 },
                 {
                     "ap1Name": "geometry",
